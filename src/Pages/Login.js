@@ -32,15 +32,14 @@ const Login = () => {
       }
 
       const result = await response.json();
-      console.log(result.token);
       if (result.token) {
         localStorage.setItem("token", result.token);
-        navigate("/products");
+        alert("Login Successful");
       }
+      navigate("/products");
     } catch (error) {
       console.error("Error:", error);
-    } finally {
-      console.log("ok");
+      alert("Please enter a valid Details");
     }
   };
 

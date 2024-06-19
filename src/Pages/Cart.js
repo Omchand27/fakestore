@@ -67,7 +67,6 @@ const Cart = () => {
                 style={{
                   margin: "auto",
                   fontSize: "25px",
-                  border: "1px solid red",
                 }}
               >
                 {item.qty}
