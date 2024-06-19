@@ -1,0 +1,20 @@
+/* CartIcon.css */
+
+.cart-icon {
+    cursor: pointer;
+    position: relative;
+    font-size: 24px;
+    margin-right: 10px; /* Adjust as needed */
+}
+  
+  .cart-value {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background-color: blue;
+    color: white;
+    font-size: 12px;
+    padding: 2px 6px;
+    border-radius: 50%;
+  }
+  

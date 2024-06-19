@@ -1,0 +1,233 @@
+/* Extra small devices (phones, less than 576px) */
+@media (max-width: 575.98px) {
+  #log {
+    width: 60%;
+    height: 40vh;
+    margin: auto;
+    margin-top: 20%;
+    justify-content: center;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+  }
+
+  input {
+    display: block;
+    width: 80%;
+    height: 5vh;
+    margin: auto;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  #log-container {
+    width: 82%;
+    margin: auto;
+  }
+
+  #login-btn {
+    width: 100%;
+    margin: auto;
+    color: white;
+    background-color: black;
+    font-size: 26px;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  #log {
+    width: 50%;
+    height: 40vh;
+    margin: auto;
+    margin-top: 10%;
+    justify-content: center;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+  }
+
+  input {
+    display: block;
+    width: 80%;
+    height: 5vh;
+    margin: auto;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  #log-container {
+    width: 82%;
+    margin: auto;
+  }
+
+  #login-btn {
+    width: 100%;
+    margin: auto;
+    color: white;
+    background-color: black;
+    font-size: 26px;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #log {
+    width: 30%;
+    height: 40vh;
+    margin: auto;
+    margin-top: 10%;
+    justify-content: center;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+  }
+
+  input {
+    display: block;
+    width: 80%;
+    height: 5vh;
+    margin: auto;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  #log-container {
+    width: 82%;
+    margin: auto;
+  }
+
+  #login-btn {
+    width: 100%;
+    margin: auto;
+    color: white;
+    background-color: black;
+    font-size: 26px;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  #log {
+    width: 30%;
+    height: 40vh;
+    margin: auto;
+    margin-top: 10%;
+    justify-content: center;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+  }
+
+  input {
+    display: block;
+    width: 80%;
+    height: 5vh;
+    margin: auto;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  #log-container {
+    width: 82%;
+    margin: auto;
+  }
+
+  #login-btn {
+    width: 100%;
+    margin: auto;
+    color: white;
+    background-color: black;
+    font-size: 26px;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  #log {
+    width: 30%;
+    height: 40vh;
+    margin: auto;
+    margin-top: 10%;
+    justify-content: center;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+  }
+
+  input {
+    display: block;
+    width: 80%;
+    height: 5vh;
+    margin: auto;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  #log-container {
+    width: 82%;
+    margin: auto;
+  }
+
+  #login-btn {
+    width: 100%;
+    margin: auto;
+    color: white;
+    background-color: black;
+    font-size: 26px;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+}
+
+/* Extra extra large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  #log {
+    width: 30%;
+    height: 40vh;
+    margin: auto;
+    margin-top: 10%;
+    justify-content: center;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: center;
+  }
+
+  input {
+    display: block;
+    width: 80%;
+    height: 5vh;
+    margin: auto;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  #log-container {
+    width: 82%;
+    margin: auto;
+  }
+
+  #login-btn {
+    width: 100%;
+    margin: auto;
+    color: white;
+    background-color: black;
+    font-size: 30px;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+}
